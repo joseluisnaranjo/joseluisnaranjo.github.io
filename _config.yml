@@ -1,16 +1,16 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              Jose Naranjo
+email:              joseluisnaranjo@hotmail.es
+description:        What matters most in life, really? is included in the General Theory of Relativity, too?
+author:             Jose Naranjo
+baseurl:            ""
+url:                "https://joseluisnaranjo.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+twitter_username:   josewizky
+github_username:    joseluisnaranjo
+facebook_username:  jolunavi1
+instagram_username:  jolunavi1
+linkedin_username:  jolunavi1
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
